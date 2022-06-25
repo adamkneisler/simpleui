@@ -27,14 +27,14 @@ var Lanuages = {
     "Theme name": "",
     "Action": "",
 
-    "ConfirmYes": "",
-    "ConfirmNo": "",
+    "ConfirmYes": "Yes",
+    "ConfirmNo": "No",
     "Tips": "",
     "Are you sure you want them all closed": "Are you sure you want them all closed?",
 
     "to": "",
     "Quick navigation": "",
-    "Go back": '',
+    "Go back": 'Back',
 
     'Set font size': '',
     'Reset': '',
