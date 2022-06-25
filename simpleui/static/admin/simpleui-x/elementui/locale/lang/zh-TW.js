@@ -113,7 +113,7 @@ exports.default = {
       error: '加載失敗'
     },
     pageHeader: {
-      title: '返回'
+      title: 'Back'
     },
     popconfirm: {
       confirmButtonText: 'Yes', // to be translated
